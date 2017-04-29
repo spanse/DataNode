@@ -1,0 +1,9 @@
+{
+  "name": "data-node",
+  "version": "0.0.0",
+  "description": "DataNode",
+  "main": "server.js",
+  "author": {
+    "name": "Spencer"
+  }
+}
