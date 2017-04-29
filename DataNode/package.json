@@ -5,5 +5,16 @@
   "main": "server.js",
   "author": {
     "name": "Spencer"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "bootstrap-v4-dev": "^4.0.0-alpha.5",
+    "connect-mssql": "^1.5.0",
+    "consolidate": "^0.14.5",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "mssql": "^4.0.4",
+    "socket.io": "^1.7.3"
   }
 }
